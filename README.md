@@ -1,1 +1,1 @@
-# loanmanagement
+# This software Loan Management System helps Manager of cooperative I designed to manager Credits of customers.This application make all operations required to calculate time of credit and intrest related for this time. 
